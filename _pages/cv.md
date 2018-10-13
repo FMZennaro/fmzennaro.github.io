@@ -11,22 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Postdoc in Machine Learning and Computer Security, University of Oslo, 2018-2020
+* Ph.D. in Machine Learning, University of Manchester, 2013-2017 
+* M.Sc. in Mathematics and Foundations of Computer Science, 2011-2012
+* M.Sc. in Computer Engineering, Politecnico di Milano, 2007-2010
+* Erasmus Exchange in Computer Science Department, University College London, 2007-2009
+* B.Sc. in Computer Engineering, Politecnico di Milano, 2004-2007
+* Diploma in Classical and Humanistic Studies, Liceo Classico S.M. Legnani, 1999-2004
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2009 - August 2010: Research Trainee
+  * NTT Basic Research Laboratories, Atsugi, Japan
+  * Duties included: Research on neural networks
+  * Supervisor: Dr Akiyoshi Shimada
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Courses
+======
+* Summer School on Regularization Methods for Machine Learning, University of Genoa, 2016
+* Summer School on Quantum Information, University of Waterloo, 2016
+* Athens Programme on Collective Intelligence, École Nationale Supérieure des Télécommunications, 2009
+
+
+
   
+<!---
 Skills
 ======
 * Skill 1
@@ -35,6 +45,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
@@ -53,7 +64,9 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
