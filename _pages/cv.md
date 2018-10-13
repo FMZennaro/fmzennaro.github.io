@@ -13,7 +13,7 @@ Education
 ======
 * Postdoc in Machine Learning and Computer Security, University of Oslo, 2018-2020
 * Ph.D. in Machine Learning, University of Manchester, 2013-2017 
-* M.Sc. in Mathematics and Foundations of Computer Science, 2011-2012
+* M.Sc. in Mathematics and Foundations of Computer Science, University of Oxford, 2011-2012
 * M.Sc. in Computer Engineering, Politecnico di Milano, 2007-2010
 * Erasmus Exchange in Computer Science Department, University College London, 2007-2009
 * B.Sc. in Computer Engineering, Politecnico di Milano, 2004-2007
