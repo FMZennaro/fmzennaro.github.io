@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a postdoc researcher at the [Department of Informatics](https://www.mn.uio.no/ifi/english/) in the [University of Oslo](https://www.uio.no/english/). 
-I do research in machine learning and I collaborate with other researchers in the [Oslo Analytics](https://www.mn.uio.no/ifi/english/research/projects/oslo-analytics/) group.
+I do research in machine learning in the [Information and Cyber Security](https://www.mn.uio.no/ifi/english/research/groups/sec/index.html) group.
 
 My areas of interest include *unsupervised learning*, *Bayesian learning*, *causality*, *information theoretic learning* and *AI safety*.
 I am also interested in the *systematization of machine learning*, and in the potential intersections of machine learning with *physics*,  *politics* , *economics* and *philosophy*.
