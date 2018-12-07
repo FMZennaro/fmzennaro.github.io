@@ -3,7 +3,7 @@ title: "Counterfactually Fair Prediction Using Multiple Causal Models"
 collection: publications
 permalink: /publication/zennaro2018counterfactually
 date: 2018-10-01
-venue: 'arXiv'
+venue: '16th European Conference on Multi-Agent Systems (EUMAS)'
 paperurl: 'https://arxiv.org/abs/1810.00694'
 ---
 
