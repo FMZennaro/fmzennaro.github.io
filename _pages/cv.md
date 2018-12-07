@@ -15,7 +15,7 @@ Education
 * Ph.D. in Machine Learning, University of Manchester, 2013-2017 
 * M.Sc. in Mathematics and Foundations of Computer Science, University of Oxford, 2011-2012
 * M.Sc. in Computer Engineering, Politecnico di Milano, 2007-2010
-* Erasmus Exchange in Computer Science Department, University College London, 2007-2009
+* Erasmus Exchange in Computer Science Department, University College London, 2007-2008
 * B.Sc. in Computer Engineering, Politecnico di Milano, 2004-2007
 * Diploma in Classical and Humanistic Studies, Liceo Classico S.M. Legnani, 1999-2004
 
