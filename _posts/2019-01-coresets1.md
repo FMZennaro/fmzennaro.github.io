@@ -1,6 +1,6 @@
 ---
 title: 'Bayesian Coresets and Edward'
-date: 2019-01-25
+date: 2019-01-24
 permalink: /posts/2019-01-coresets1
 tags:
   - coreset
