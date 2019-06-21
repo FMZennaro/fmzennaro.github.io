@@ -3,7 +3,7 @@ title: "An Empirical Evaluation of the Approximation of Subjective Logic Operato
 collection: publications
 permalink: /publication/zennaro2018empirical
 date: 2018-08-17
-venue: 'arXiv'
+venue: 'International Journal of Approximate Reasoning'
 paperurl: 'https://arxiv.org/abs/1808.05884'
 ---
 
