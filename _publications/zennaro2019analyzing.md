@@ -1,5 +1,5 @@
 ---
-title: "Analyzing and Storing Network Intrusion Detection Data using Bayesian Coresets: \\ A Preliminary Study in Offline and Streaming Settings"
+title: "Analyzing and Storing Network Intrusion Detection Data using Bayesian Coresets: A Preliminary Study in Offline and Streaming Settings"
 collection: publications
 permalink: /publication/zennaro2019analyzing
 date: 2019-06-20
