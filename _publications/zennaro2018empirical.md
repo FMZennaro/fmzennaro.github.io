@@ -1,5 +1,6 @@
 ---
 title: "An Empirical Evaluation of the Approximation of Subjective Logic Operators Using Monte Carlo Simulations"
+authors: "Fabio Massimo Zennaro, Magdalena Ivanovska, Audun Jøsang"
 collection: publications
 permalink: /publication/zennaro2018empirical
 date: 2018-08-17

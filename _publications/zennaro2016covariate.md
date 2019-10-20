@@ -1,5 +1,6 @@
 ---
 title: "Covariate Shift Adaptation via Sparse Filtering for High-Dimensional Periodic Data"
+authors: "Fabio Massimo Zennaro, Ke Chen"
 collection: publications
 permalink: /publication/zennaro2016covariate
 date: 2016-07-22

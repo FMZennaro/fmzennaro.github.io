@@ -1,5 +1,6 @@
 ---
 title: "Towards Understanding Sparse Filtering: A Theoretical Perspective"
+authors: "Fabio Massimo Zennaro, Ke Chen"
 collection: publications
 permalink: /publication/zennaro2016towards
 date: 2016-03-29

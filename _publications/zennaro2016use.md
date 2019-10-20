@@ -1,5 +1,6 @@
 ---
 title: "On the Use of Sparse Filtering for Covariate Shift Adaptation"
+authors: "Fabio Massimo Zennaro, Ke Chen"
 collection: publications
 permalink: /publication/zennaro2016use
 date: 2016-07-22

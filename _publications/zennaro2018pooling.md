@@ -1,5 +1,6 @@
 ---
 title: "Pooling of Causal Models under Counterfactual Fairness via Causal Judgement Aggregation"
+authors: "Fabio Massimo Zennaro, Magdalena Ivanovska"
 collection: publications
 permalink: /publication/zennaro2018pooling
 date: 2018-05-24
