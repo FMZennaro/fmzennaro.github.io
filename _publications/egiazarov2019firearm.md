@@ -3,7 +3,7 @@ title: "Firearm Detection and Segmentation using an Ensemble of Semantic Neural 
 authors: "Alexander Egiazarov, Vasileios Mavroeidis and Fabio Massimo Zennaro"
 collection: publications
 permalink: /publication/egiazarov2019firearm
-date: 2019-06-20
+date: 2019-10-15
 venue: 'European Intelligence and Security Informatics Conference (EISIC) 2019'
 paperurl: ''
 ---
