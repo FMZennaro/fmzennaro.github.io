@@ -1,9 +1,10 @@
 ---
 title: "Analyzing and Storing Network Intrusion Detection Data using Bayesian Coresets: A Preliminary Study in Offline and Streaming Settings"
+authors: "Fabio Massimo Zennaro"
 collection: publications
 permalink: /publication/zennaro2019analyzing
 date: 2019-06-20
-venue: 'arXiv'
+venue: 'ECML 2018 Workshop on Machine Learning for CyberSecurity'
 paperurl: 'https://arxiv.org/abs/1906.08528'
 ---
 

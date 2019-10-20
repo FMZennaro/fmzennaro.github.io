@@ -1,5 +1,6 @@
 ---
 title: "Counterfactually Fair Prediction Using Multiple Causal Models"
+authors: "Fabio Massimo Zennaro, Magdalena Ivanovska"
 collection: publications
 permalink: /publication/zennaro2018counterfactually
 date: 2018-10-01
