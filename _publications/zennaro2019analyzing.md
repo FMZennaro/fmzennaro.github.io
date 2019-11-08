@@ -4,7 +4,7 @@ authors: "Fabio Massimo Zennaro"
 collection: publications
 permalink: /publication/zennaro2019analyzing
 date: 2019-09-20
-venue: 'ECML 2018 Workshop on Machine Learning for CyberSecurity'
+venue: 'ECML 2019 Workshop on Machine Learning for CyberSecurity'
 paperurl: 'https://arxiv.org/abs/1906.08528'
 ---
 
