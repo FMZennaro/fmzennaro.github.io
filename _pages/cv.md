@@ -29,6 +29,7 @@ Work experience
 
 Courses
 ======
+* Advanced Course on Data Science and Machine Learning, Siena, 2019
 * Summer School on Regularization Methods for Machine Learning, University of Genoa, 2016
 * Summer School on Quantum Information, University of Waterloo, 2016
 * Athens Programme on Collective Intelligence, École Nationale Supérieure des Télécommunications, 2009
