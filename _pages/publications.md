@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Project Committee
+Programme Committee
 ======
 * *Nordsec 2019*
 * *Cyberhunt 2019*

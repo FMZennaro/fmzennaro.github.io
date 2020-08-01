@@ -1,5 +1,5 @@
 ---
-title: "Modelling CTF challenges using RL"
+title: "Modelling Capture-the-Flag Challenges Using Reinforcement Learning"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-CTFRL
