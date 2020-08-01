@@ -14,3 +14,16 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Project Committee
+======
+* *Nordsec 2019*
+* *Cyberhunt 2019*
+* *Nordsec 2018*
+* *Cyberhunt 2018* 
+
+Reviewer
+======
+* *International Conference on Machine Learning (ICML) 2020*
+* *International Joint Conferences on Artificial Intelligence (IJCAI) 2019*
+* *Norwegian Artificial Intelligence Society (NAIS) Symposium 2019*
