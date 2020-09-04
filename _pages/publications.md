@@ -27,3 +27,4 @@ Reviewer
 * *International Conference on Machine Learning (ICML) 2020*
 * *International Joint Conferences on Artificial Intelligence (IJCAI) 2019*
 * *Norwegian Artificial Intelligence Society (NAIS) Symposium 2019*
+* *MDPI Informatics*
