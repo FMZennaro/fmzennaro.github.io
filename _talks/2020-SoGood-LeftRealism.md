@@ -5,7 +5,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2020-WUML-SubjectiveBandits
 venue: "ECML Workshop on Uncertainty in Machine Learning (WUML)"
-date: 2018-09-18
+date: 2020-09-18
 location: "Ghent, Belgium"
 ---
 

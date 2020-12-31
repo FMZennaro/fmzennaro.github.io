@@ -1,8 +1,8 @@
 ---
 title: "Fair ML and Causal ML"
-collection: talks
-type: "Talk"
-permalink: /talks/2020-IN3050-FairCausalML
+collection: classes
+type: "Class"
+permalink: /classes/2020-IN3050-FairCausalML
 venue: "IN3050 Introduction to Artificial Intelligence and Machine Learning, University of Oslo"
 date: 2020-05-12
 location: "Oslo, Norway"

@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2020-AdvML
 venue: "Keynote at IEEE Big Data CyberHunt Workshop (online)"
 date: 2020-12-11
-location: "Atlanta, GA, Austria"
+location: "Atlanta, GA, USA"
 ---
 
 These slides provides an overview on the topic of the security of machine learning systems. We identify the two main attack surfaces inherent in machine learned systems, and we then provide a review of the main attack and defenses, heavily relying on analogical reasoning to illustrate and explain these methods. The presentation ends with remarks on the practical implications of these vulnerabilities and the current directions of research.
