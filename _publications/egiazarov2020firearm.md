@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/egiazarov2020firearm
 date: 2020-12-11
 venue: 'IEEE Bigdata 2020 Workshop Cyberhunt'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2012.09662'
 ---
 
 Threat detection of weapons and aggressive behavior from live video can be used for rapid detection and prevention of potentially deadly incidents such as terrorism, general criminal offences, or even domestic violence. One way for achieving this is through the use of artificial intelligence and, in particular, machine learning for image analysis.

@@ -2,7 +2,7 @@
 title: "The Agent Web Model - Modelling web hacking for reinforcement learning"
 authors: "Laszlo Erdodi, Fabio Massimo Zennaro"
 collection: publications
-permalink: /publication/zennaro2020agent
+permalink: /publication/erdodi2020agent
 date: 2020-09-23
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2009.11274'
