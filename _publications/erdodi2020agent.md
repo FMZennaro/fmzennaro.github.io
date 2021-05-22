@@ -4,7 +4,7 @@ authors: "Laszlo Erdodi, Fabio Massimo Zennaro"
 collection: publications
 permalink: /publication/erdodi2020agent
 date: 2020-09-23
-venue: 'arXiv'
+venue: 'International Journal of Information Security'
 paperurl: 'https://arxiv.org/abs/2009.11274'
 ---
 

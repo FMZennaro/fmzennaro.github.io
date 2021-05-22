@@ -1,5 +1,5 @@
 ---
-title: "Modeling Penetration Testing with Reinforcement Learning Using Capture-the-Flag Challenges and Tabular Q-Learning"
+title: "Modeling Penetration Testing with Reinforcement Learning Using Capture-the-Flag Challenges: Trade-offs between Model-free Learning and A Priori Knowledge"
 authors: "Fabio Massimo Zennaro, Laszlo Erdodi"
 collection: publications
 permalink: /publication/zennaro2020modeling
