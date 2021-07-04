@@ -4,7 +4,7 @@ authors: "Laszlo Erdodi,  Åvald Åslaugson Sommervoll, Fabio Massimo Zennaro"
 collection: publications
 permalink: /publication/erdodi2021simulating
 date: 2021-01-08
-venue: 'arXiv'
+venue: 'Journal of Information Security and Applications'
 paperurl: 'https://arxiv.org/abs/2101.03118'
 ---
 
