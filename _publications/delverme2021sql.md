@@ -4,7 +4,7 @@ authors: "Manuel Del Verme, Åvald Åslaugson Sommervoll, Laszlo Erdodi, Simone 
 collection: publications
 permalink: /publication/delverme2021sql
 date: 2021-06-30
-venue: 'arXiv'
+venue: 'Nordic Conference on Secure IT Systems (NordSec) 2021'
 paperurl: ''
 ---
 

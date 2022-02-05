@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher at the [Department of Informatics](https://www.mn.uio.no/ifi/english/) in the [University of Oslo](https://www.uio.no/english/). 
-I do research in machine learning in the [Information and Cyber Security](https://www.mn.uio.no/ifi/english/research/groups/sec/index.html) group.
+I am a post-doctoral research asssociate in the [Warwick Machine Learning Group](https://wmlg.io/) at the [University of Warwick](https://warwick.ac.uk/). 
+I do research on machine learning, causality and abstraction in the group of Prof [Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/).
 
-My areas of interest include *unsupervised learning*, *Bayesian learning*, *causality*, *information theoretic learning* and *AI safety*.
+Previously, I did research on *reinforcement learning*, *computer security*, and *uncertainty* as a postdoc in the [Information and Cyber Security](https://www.mn.uio.no/ifi/english/research/groups/sec/index.html) group at the [University of Oslo](https://www.uio.no/) under Prof [Audun Josang](https://www.mn.uio.no/ifi/english/people/aca/josang/). During my PhD I studied *unsupervised learning* and *information theoretic learning* under the supervision of Prof [Ke Chen](https://staff.cs.manchester.ac.uk/~kechen/) at the [University of Manchester](https://www.manchester.ac.uk/).
+
 I am also interested in the *systematization of machine learning*, and in the potential intersections of machine learning with *physics*,  *politics* , *economics* and *philosophy*.
 
 <!---
