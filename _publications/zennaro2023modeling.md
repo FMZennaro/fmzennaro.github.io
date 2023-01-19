@@ -2,9 +2,9 @@
 title: "Modeling Penetration Testing with Reinforcement Learning Using Capture-the-Flag Challenges: Trade-offs between Model-free Learning and A Priori Knowledge"
 authors: "Fabio Massimo Zennaro, Laszlo Erdodi"
 collection: publications
-permalink: /publication/zennaro2020modeling
-date: 2020-05-26
-venue: 'arXiv'
+permalink: /publication/zennaro2023modeling
+date: 2023-01-01
+venue: 'IET Information Security'
 paperurl: 'https://arxiv.org/abs/2005.12632'
 ---
 
