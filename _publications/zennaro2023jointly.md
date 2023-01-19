@@ -4,7 +4,7 @@ authors: "Fabio Massimo Zennaro, Máté Drávucz, Geanina Apachitei, W. Dhammika
 collection: publications
 permalink: /publication/zennaro2023jointly
 date: 2023-01-07
-venue: 'CLeaR (Causal Learning and Reasoning) 2023'
+venue: 'CLeaR 2023 (Causal Learning and Reasoning)'
 paperurl: 'https://arxiv.org/abs/2301.05893'
 ---
 
