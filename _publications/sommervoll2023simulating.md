@@ -5,7 +5,6 @@ collection: publications
 permalink: /publication/sommervoll2023simulating
 date: 2023-01-01
 venue: 'arXiv'
-paperurl: ''
 ---
 
 Vulnerabilities such as SQL injection represent a serious challenge to security. While tools with a pre-defined logic are commonly used in the field of penetration testing, the continually-evolving nature of the security challenge calls for models able to learn autonomously from experience.
