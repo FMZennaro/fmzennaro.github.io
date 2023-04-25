@@ -4,7 +4,7 @@ authors: "Fabio Massimo Zennaro"
 collection: publications
 permalink: /publication/zennaro2022abstraction
 date: 2022-08-05
-venue: 'UAI 2022 Workshop on Causal Representation Learning **[Best paper award]**'
+venue: 'UAI 2022 Workshop on Causal Representation Learning [Best paper award]'
 paperurl: 'https://arxiv.org/abs/2207.08603'
 ---
 
