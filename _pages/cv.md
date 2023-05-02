@@ -60,6 +60,23 @@ Journal Reviewing
 
 Programme Committee
 ======
+\emph{Theoretical Aspects of Rationality and Knowledge (TARK) 2023}\newline
+	\emph{Neural Networks}\newline	
+	\emph{Bayesian Analysis}\newline	
+	\emph{Journal of Machine Learning Research (JMLR)}\newline	
+	\emph{International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2023}\newline	
+	\emph{International Conference on Learning Representations (ICLR) 2023}\newline
+	\emph{Neural Information Processing Systems (NeurIPS) 2021}\newline
+	\emph{International Conference on Learning Representations (ICLR) 2021}\newline
+	\emph{AAAI Conference on Artificial Intelligence 2021}\newline
+	\emph{International Conference on Machine Learning (ICML) 2020}\newline
+	\emph{AAAI Conference on Artificial Intelligence 2020}\newline
+	\emph{International Joint Conference on Artificial Intelligence (IJCAI) 2019}\newline
+	\emph{Norwegian Artificial Intelligence Society (NAIS) Symposium 2019}\newline
+	\emph{Nordsec 2018-2019}\newline
+	\emph{IEEE Bigdata Workshop Cyberhunt 2018-2022}
+
+
 * International Conference on Learning Representations (ICLR) 2023
 * IEEE Bigdata Workshop Cyberhunt 2022
 * Neural Information Processing Systems (NeurIPS) 2021
