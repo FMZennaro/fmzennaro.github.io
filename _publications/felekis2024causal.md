@@ -3,7 +3,7 @@ title: "Causal Optimal Transport of Abstractions"
 authors: "Yorgos Felekis, Fabio Massimo Zennaro, Nicola Branchini, Theodoros Damoulas"
 collection: publications
 permalink: /publication/felekis2024causal
-date: 2023-12-13
+date: 2024-04-01
 venue: 'CLeaR 2024 (Causal Learning and Reasoning)'
 paperurl: 'https://arxiv.org/abs/2312.08107'
 ---

@@ -15,6 +15,23 @@ During my first postdoc, I did research on *reinforcement learning*, *computer s
 
 I am also interested in the *systematization of machine learning*, and in the potential intersections of machine learning with other topics such as *physics*,  *politics*, *economics* and *philosophy*.
 
+
+Highlighted papers
+======
+* Fabio Massimo Zennaro, Nicholas Bishop, Joel Dyer, Yorgos Felekis, Anisoara Calinescu, Michael Wooldridge, Theodoros Damoulas. [*Causally Abstracted Multi-armed Bandits*](https://arxiv.org/abs/2404.17493), Published in UAI 2024 [**Oral presentation**]
+* Yorgos Felekis, Fabio Massimo Zennaro, Nicola Branchini, Theodoros Damoulas. [*Causal Optimal Transport of Abstractions*](https://arxiv.org/abs/2312.08107), Published in CLeaR 2024
+* Fabio Massimo Zennaro. [*Abstraction between Structural Causal Models: A Review of Definitions and Properties*](https://arxiv.org/abs/2207.08603), Published in UAI 2022 Workshop on Causal Representation Learning [**Best paper award**]
+* Fabio Massimo Zennaro, Paolo Turrini, Theodoros Damoulas. [Quantifying Consistency and Information Loss for Causal Abstraction Learning](https://arxiv.org/abs/2305.04357), Published in IJCAI 2023
+* Fabio Massimo Zennaro, Máté Drávucz, Geanina Apachitei, W. Dhammika Widanage, Theodoros Damoulas. [Jointly Learning Consistent Causal Abstractions Over Multiple Interventional Distributions](https://arxiv.org/abs/2301.05893), Published in CLeaR 2023 [**Oral presentation: 9% acceptance rate**]
+
+Highlighted talks
+======
+* [*Abstraction between Structural Causal Models and Measures of Abstraction Error*](https://fmzennaro.github.io/talks/CausalAbstractionsAndMeasures.pdf) @ University of Kyoto 2023
+* [*A Gentle Introduction to Casual Models*](https://fmzennaro.github.io/talks/CausalModels.pdf) @ OsloMet AI Seminar 2019
+* [*Applications of reinforcement learning to computer security: problems, models, and perspectives*](https://fmzennaro.github.io/talks/CTFRL2.pdf) @ OsloMet AI Seminar 2021
+* [*A Left Realist Critique of the Political Value of Adopting Machine Learning Systems in Criminal Justice*](https://fmzennaro.github.io/talks/SoGood-LeftRealism.pdf) @ ECML Workshop on AI for Social Good (SoGood) 2020
+* [*Information Bottleneck (and Unsupervised Learning)*](https://fmzennaro.github.io/talks/IB.pdf), @ Robotics and Intelligent Systems (ROBIN) Seminar 2020
+
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
