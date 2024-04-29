@@ -17,7 +17,7 @@ I am also interested in the *systematization of machine learning*, and in the po
 
 
 Highlighted papers
-======
+------
 * Fabio Massimo Zennaro, Nicholas Bishop, Joel Dyer, Yorgos Felekis, Anisoara Calinescu, Michael Wooldridge, Theodoros Damoulas. [*Causally Abstracted Multi-armed Bandits*](https://arxiv.org/abs/2404.17493), Published in UAI 2024 [**Oral presentation**]
 * Yorgos Felekis, Fabio Massimo Zennaro, Nicola Branchini, Theodoros Damoulas. [*Causal Optimal Transport of Abstractions*](https://arxiv.org/abs/2312.08107), Published in CLeaR 2024
 * Fabio Massimo Zennaro. [*Abstraction between Structural Causal Models: A Review of Definitions and Properties*](https://arxiv.org/abs/2207.08603), Published in UAI 2022 Workshop on Causal Representation Learning [**Best paper award**]
@@ -25,7 +25,7 @@ Highlighted papers
 * Fabio Massimo Zennaro, Máté Drávucz, Geanina Apachitei, W. Dhammika Widanage, Theodoros Damoulas. [Jointly Learning Consistent Causal Abstractions Over Multiple Interventional Distributions](https://arxiv.org/abs/2301.05893), Published in CLeaR 2023 [**Oral presentation: 9% acceptance rate**]
 
 Highlighted talks
-======
+-----
 * [*Abstraction between Structural Causal Models and Measures of Abstraction Error*](https://fmzennaro.github.io/talks/CausalAbstractionsAndMeasures.pdf) @ University of Kyoto 2023
 * [*A Gentle Introduction to Casual Models*](https://fmzennaro.github.io/talks/CausalModels.pdf) @ OsloMet AI Seminar 2019
 * [*Applications of reinforcement learning to computer security: problems, models, and perspectives*](https://fmzennaro.github.io/talks/CTFRL2.pdf) @ OsloMet AI Seminar 2021
