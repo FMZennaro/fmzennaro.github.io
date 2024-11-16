@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-ResearchUiBML
 venue: "Lead AI"
-date: 2023-04-24
+date: 2024-04-24
 location: "Bergen, Norway"
 ---
 

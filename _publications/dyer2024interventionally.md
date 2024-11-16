@@ -3,8 +3,8 @@ title: "Interventionally Consistent Surrogates for Agent-based Simulators"
 authors: "Joel Dyer, Nicholas Bishop, Yorgos Felekis, Fabio Massimo Zennaro, Anisoara Calinescu, Theodoros Damoulas, Michael Wooldridge"
 collection: publications
 permalink: /publication/dyer2024interventionally
-date: 2023-12-18
-venue: 'arXiv'
+date: 2024-10-24
+venue: 'NeurIPS 2024 (Conference on Neural Information Processing Systems)'
 paperurl: 'https://arxiv.org/abs/2312.11158'
 ---
 
