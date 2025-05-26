@@ -7,7 +7,8 @@ author_profile: true
 
 PhD Supervision
 -----
-* Willem Theodorus Schooltink, *Causality and Reinforcement Learning*
+* Thorir Hrafn Hardarson, *Causal Reinforcement Learning*
+* Willem Theodorus Schooltink, *Causal Abstraction*
 * Yorgos Felekis, *Learning Causal Abstractions* (co-supervision with Theo Damoulas)
 
 Project Supervision
@@ -26,14 +27,20 @@ Advisory Supervision
 * L. Parker, *Wind Power Predictions for Norwegian Wind Farms with Machine Learning*, MSc dissertation at the University of Oslo, 2019
 * S. Berdal, *A Holistic Approach to Insider Threat Detection*, MSc dissertation at the University of Oslo, 2018
 
+PhD Revision
+-----
+* R. Massidda, *Methodological advancements for causal abstraction learning*, PhD dissertation at the University of Pisa, 2024
+
+
 MSc Revision
 -----
+* M. Binner, *Analyzing indirect object identification circuits in TinyStories-8M*, MSc dissertation at the University of Bergen, 2024
 * A.S. Alfnes, *Fine-Tuning Large Language Models: Assessing Memorization and Redaction of Personally Identifiable Information*, MSc dissertation at the BI Oslo, 2024
 * C.G. Devis, *Stem cell identification via RNA sequencing in breast cancer*, MSc dissertation at the University of Bergen, 2024
 * P.W. Temmerud, *Quality Assurance of Medical Mass Spectrometry with Artificial Intelligence*, MSc dissertation at the University of Bergen, 2024
 * B.M. Aas, *Minding the Gaps*, MSc dissertation at the University of Oslo, 2024
 * K.F. Orten, *Exploring Dual-System Reasoning through Model-Free and Model-Based RL*, MSc dissertation at the University of Oslo, 2024 
-* W.Schooltink, *Topological Regularization of Support Vector Machines*, MSc dissertation at the University of Bergen, 2023
+* W. Schooltink, *Topological Regularization of Support Vector Machines*, MSc dissertation at the University of Bergen, 2023
 * A.L. Henriksen, *Learning Acquisition Functions for Cost-aware Bayesian Optimization*, MSc dissertation at the University of Bergen, 2023
 * D. Kocan, *Attention-Guided Explainable Reinforcement Learning*, MSc dissertation at the University of Oslo, 2023
 * E.B. Taye, *Accountability Module: Increasing Trust in Reinforcement Learning Agents*, MSc dissertation at the University of Oslo, 2023

@@ -55,18 +55,20 @@ Teaching
 
 Journal Reviewing
 ======
-* Neural Networks
+* Journal of Machine Learning Research (JMLR)
+* Bayesian Analysis
+* Elsevier Neural Networks	
+* Elsevier Computers and Security
+* IEEE Transaction on Information Forensics and Security
+* Entropy
+* Nordic Machine Intelligence (NMI)
 * MDPI Informatics
 
 Programme Committee
 ======
-
-
-* Theoretical Aspects of Rationality and Knowledge (TARK) 2023
-* Elsevier Neural Networks	
-* Bayesian Analysis
-* Elsevier Computers and Security
-* Journal of Machine Learning Research (JMLR)	
+* Uncertainty in Artificial Intelligence (UAI) 2025
+* Causal Learning and Reasoning (CLeaR) 2024
+* Theoretical Aspects of Rationality and Knowledge (TARK) 2023	
 * International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2023	
 * International Conference on Learning Representations (ICLR) 2023
 * Neural Information Processing Systems (NeurIPS) 2021
