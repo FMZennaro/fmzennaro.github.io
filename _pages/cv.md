@@ -53,6 +53,11 @@ Teaching
 ======
 * See *Teaching*
 
+
+Workshop Organization
+======
+* Causal Abstractions and Representations Workshop, UAI 2025
+
 Journal Reviewing
 ======
 * Journal of Machine Learning Research (JMLR)
@@ -81,7 +86,10 @@ Programme Committee
 * Nordsec 2018-2019
 * IEEE Bigdata Workshop Cyberhunt 2018-2022
 
-
+Grant Reviewing
+======
+* ANR Programme Jeunes Chercheuses et Jeunes Chercheurs
+* ETH Pioneer
 
   
 <!---
