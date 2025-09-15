@@ -13,6 +13,10 @@ PhD Supervision
 
 Project Supervision
 -----
+* S. Huber, *Accelerating the Green Transition: A Scaleable System for CSRD-Compliant Sustainability Reporting*,  MSc dissertation at the University of Bergen, 2025
+* S. Krempasky, *MCTS-Based Learning in Competitive Multi-Agent Settings: Experiments on Four-Player Chess*,  MSc dissertation at the University of Bergen, 2025
+* J.R. Land, *Reward Design and Self-Play for Deep Reinforcement Learning in Hydropower Scheduling*,  MSc dissertation at the University of Bergen, 2025
+* A. Heiret, *Learning Structural Equations in Causal Abstraction*,  MSc dissertation at the University of Bergen, 2025
 * M. Dravucz, *Jointly Learning Consistent Causal Abstraction Over Multiple
 Interventional Distributions*, MSc by research at the University of Warwick, 2022
 * M. Heggem, *Graph Neural Networks to Process Threat Data*, MSc dissertation at the University of Oslo, 2022
@@ -22,6 +26,7 @@ Interventional Distributions*, MSc by research at the University of Warwick, 202
 
 Advisory Supervision
 -----
+* L. Padmore, *Learning Abstractions in Causally Abstracted Multi-Armed Bandits*, MSc dissertation at the University of Warwick, 2025
 * A. Wang-Hansen, *Fair Automated Decision-making*, MSc dissertation at the University of Oslo, 2020
 * A. Egiazarov, *Firearm Detection Through Component Decomposition*, MSc dissertation at the University of Oslo, 2019
 * L. Parker, *Wind Power Predictions for Norwegian Wind Farms with Machine Learning*, MSc dissertation at the University of Oslo, 2019
@@ -34,6 +39,7 @@ PhD Revision
 
 MSc Revision
 -----
+* T.S. Auren, *Approximating a combinatorial problem with reinforcement learning and a physics engine*, MSc dissertation at the University of Oslo, 2025 
 * M. Binner, *Analyzing indirect object identification circuits in TinyStories-8M*, MSc dissertation at the University of Bergen, 2024
 * A.S. Alfnes, *Fine-Tuning Large Language Models: Assessing Memorization and Redaction of Personally Identifiable Information*, MSc dissertation at the BI Oslo, 2024
 * C.G. Devis, *Stem cell identification via RNA sequencing in breast cancer*, MSc dissertation at the University of Bergen, 2024
