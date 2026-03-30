@@ -18,6 +18,7 @@ I am also interested in the *systematization of machine learning*, and in the po
 
 Highlighted papers
 ------
+* Gabriele D'Acunto, Fabio Massimo Zennaro, Yorgos Felekis, Paolo Di Lorenzo. [*Causal Abstraction Learning based on the Semantic Embedding Principle*](https://arxiv.org/abs/2502.00407), Published in ICML 2025
 * Joel Dyer, Nicholas Bishop, Yorgos Felekis, Fabio Massimo Zennaro, Anisoara Calinescu, Theodoros Damoulas, Michael Wooldridge. [*Interventionally Consistent Surrogates for Agent-based Simulators*](https://arxiv.org/abs/2312.11158), Published in NeurIPS 2024 [[**Blogpost**](https://www.nickbishop.net/2024/11/02/interventional-surrogates)]
 * Fabio Massimo Zennaro, Nicholas Bishop, Joel Dyer, Yorgos Felekis, Anisoara Calinescu, Michael Wooldridge, Theodoros Damoulas. [*Causally Abstracted Multi-armed Bandits*](https://arxiv.org/abs/2404.17493), Published in UAI 2024 [**Oral presentation**]
 * Yorgos Felekis, Fabio Massimo Zennaro, Nicola Branchini, Theodoros Damoulas. [*Causal Optimal Transport of Abstractions*](https://arxiv.org/abs/2312.08107), Published in CLeaR 2024

@@ -13,10 +13,13 @@ PhD Supervision
 
 Project Supervision
 -----
-* S. Huber, *Accelerating the Green Transition: A Scaleable System for CSRD-Compliant Sustainability Reporting*,  MSc dissertation at the University of Bergen, 2025
-* S. Krempasky, *MCTS-Based Learning in Competitive Multi-Agent Settings: Experiments on Four-Player Chess*,  MSc dissertation at the University of Bergen, 2025
-* J.R. Land, *Reward Design and Self-Play for Deep Reinforcement Learning in Hydropower Scheduling*,  MSc dissertation at the University of Bergen, 2025
-* A. Heiret, *Learning Structural Equations in Causal Abstraction*,  MSc dissertation at the University of Bergen, 2025
+* J. Storum, *Exploring the benefits of known evaluators in robust RLHF*, MSc dissertation at the University of Bergen, 2025
+* K. Nore, *Hierarchically Guided Reinforcement Learning Using Waypoints Sampled From Expert Trajectories*, MSc dissertation at the University of Bergen, 2025
+* S. Håland, *Exploring and Comparing Quantum Causal Model Frameworks to Classical Causal Models*, MSc dissertation at the University of Bergen, 2025
+* S. Huber, *Accelerating the Green Transition: A Scaleable System for CSRD-Compliant Sustainability Reporting*, MSc dissertation at the University of Bergen, 2025
+* S. Krempasky, *MCTS-Based Learning in Competitive Multi-Agent Settings: Experiments on Four-Player Chess*, MSc dissertation at the University of Bergen, 2025
+* J.R. Land, *Reward Design and Self-Play for Deep Reinforcement Learning in Hydropower Scheduling*, MSc dissertation at the University of Bergen, 2025
+* A. Heiret, *Learning Structural Equations in Causal Abstraction*, MSc dissertation at the University of Bergen, 2025
 * M. Dravucz, *Jointly Learning Consistent Causal Abstraction Over Multiple
 Interventional Distributions*, MSc by research at the University of Warwick, 2022
 * M. Heggem, *Graph Neural Networks to Process Threat Data*, MSc dissertation at the University of Oslo, 2022
@@ -39,6 +42,9 @@ PhD Revision
 
 MSc Revision
 -----
+* M. Lepsøy, *Prompting and Causal Fallacy Detection in Large Language Models*, MSc dissertation at the University of Bergen, 2026
+* A. Hatland, *Predicting Future States and Events for Deep Reinforcement Learning Policies*, MSc dissertation at the University of Oslo, 2025 
+* N. Engh, *Deep Learning for Peripherin Prediction in Breast Cancer Imaging Mass Cytometry*, MSc dissertation at the University of Bergen, 2025
 * T.S. Auren, *Approximating a combinatorial problem with reinforcement learning and a physics engine*, MSc dissertation at the University of Oslo, 2025 
 * M. Binner, *Analyzing indirect object identification circuits in TinyStories-8M*, MSc dissertation at the University of Bergen, 2024
 * A.S. Alfnes, *Fine-Tuning Large Language Models: Assessing Memorization and Redaction of Personally Identifiable Information*, MSc dissertation at the BI Oslo, 2024

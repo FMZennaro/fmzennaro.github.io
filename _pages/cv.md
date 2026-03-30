@@ -35,6 +35,7 @@ Specialized Courses
 
 Funding and Award
 ======
+* SPIRE Seed Funding, 2026
 * Best paper at UAI 2022 Workshop on Causal Representation Learning, 2022
 * Turing Post-doctoral Award (PDEA), 2022
 * Kilburn Scholarship, 2013-2016
@@ -71,7 +72,7 @@ Journal Reviewing
 
 Programme Committee
 ======
-* Uncertainty in Artificial Intelligence (UAI) 2025
+* Uncertainty in Artificial Intelligence (UAI) 2025, 2026
 * Causal Learning and Reasoning (CLeaR) 2024
 * Theoretical Aspects of Rationality and Knowledge (TARK) 2023	
 * International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2023	
