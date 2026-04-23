@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Programme Committee
+<!--Programme Committee
 ======
 * *Nordsec 2019*
 * *Cyberhunt 2019*
@@ -30,4 +30,4 @@ Reviewer
 * *AAAI Conference on Artificial Intelligence 2020*
 * *International Joint Conferences on Artificial Intelligence (IJCAI) 2019*
 * *Norwegian Artificial Intelligence Society (NAIS) Symposium 2019*
-* *MDPI Informatics*
+* *MDPI Informatics*-->
